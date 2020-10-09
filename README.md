@@ -37,12 +37,11 @@ After importing the data extracted from csv to data frames, I needed to clean up
 
 **EDA**
 ---
-![acoustic](https://user-images.githubusercontent.com/34255556/95595133-6ca76980-0a7e-11eb-8039-0a0bdf383ea9.png)
-![trend of features](https://user-images.githubusercontent.com/34255556/95595142-6e712d00-0a7e-11eb-8c4c-5d5877114d60.png)
-![tracks correlation](https://user-images.githubusercontent.com/34255556/95595146-6f09c380-0a7e-11eb-904b-56ac717863d0.png)
-
-![Followers to Streams](https://user-images.githubusercontent.com/34255556/95595692-08d17080-0a7f-11eb-889c-fa14fa89c83e.png)
-![Music Genres](https://user-images.githubusercontent.com/34255556/95595703-0bcc6100-0a7f-11eb-8021-863255e76fcc.png)
+![Acousticness distribution](https://user-images.githubusercontent.com/34255556/95596206-ab89ef00-0a7f-11eb-844d-8808bf963ffb.png)
+![Followers to Streams](https://user-images.githubusercontent.com/34255556/95596212-ad53b280-0a7f-11eb-908c-53c6f3a30e63.png)
+![Music Genres](https://user-images.githubusercontent.com/34255556/95596217-af1d7600-0a7f-11eb-9bd5-3251f4844877.png)
+![Trend of features](https://user-images.githubusercontent.com/34255556/95596227-b17fd000-0a7f-11eb-9361-680bf11da7cb.png)
+![Artist correlation](https://user-images.githubusercontent.com/34255556/95596236-b3499380-0a7f-11eb-8b16-30271a6a6777.png)
 
 **Usage**
 ---
