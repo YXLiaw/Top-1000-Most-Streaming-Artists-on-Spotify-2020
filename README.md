@@ -38,7 +38,7 @@ After importing the data extracted from csv to data frames, I needed to clean up
 **EDA**
 ---
 ### Most Popular Music Genres on Spotify
-![Music Genres](https://user-images.githubusercontent.com/34255556/95596217-af1d7600-0a7f-11eb-9bd5-3251f4844877.png)
+![Music Genres](https://user-images.githubusercontent.com/34255556/95596217-af1d7600-0a7f-11eb-9bd5-3251f4844877.png)</p>
 Currently, pop music dominates the Spotify market from top 1000 most streamed artists on Spotify, followed by dance pop and pop rap as per classified by Spotify.
 
 ### Correlation heatmap for artists
