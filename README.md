@@ -37,19 +37,19 @@ After importing the data extracted from csv to data frames, I needed to clean up
 
 **EDA**
 ---
-**Most Popular Music Genres on Spotify**
+### Most Popular Music Genres on Spotify
 ![Music Genres](https://user-images.githubusercontent.com/34255556/95596217-af1d7600-0a7f-11eb-9bd5-3251f4844877.png)
 
-**Correlation heatmap for artists**
+### Correlation heatmap for artists
 ![Artist correlation](https://user-images.githubusercontent.com/34255556/95596236-b3499380-0a7f-11eb-8b16-30271a6a6777.png)
 
-**Top 10 Artists with Most Followers/Streams on Spotify**
+### Top 10 Artists with Most Followers/Streams on Spotify
 ![Followers to Streams](https://user-images.githubusercontent.com/34255556/95596212-ad53b280-0a7f-11eb-908c-53c6f3a30e63.png)
 
-**Overall Trend of Audio Features by Year**
+### Overall Trend of Audio Features by Year
 ![Trend of features](https://user-images.githubusercontent.com/34255556/95596227-b17fd000-0a7f-11eb-9361-680bf11da7cb.png)
 
-**Acousticness Distribution between Music Keys on Spotify**
+### Acousticness Distribution between Music Keys on Spotify
 ![Acousticness distribution](https://user-images.githubusercontent.com/34255556/95596206-ab89ef00-0a7f-11eb-844d-8808bf963ffb.png)
 
 **Usage**
